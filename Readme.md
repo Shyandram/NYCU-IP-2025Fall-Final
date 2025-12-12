@@ -72,9 +72,9 @@ python eval_mef.py `
 	--csv_out exp/eval/c2wom.csv
 ```
 
-## Links
+<!-- ## Links
 
-<!-- - Presentation (YouTube): https://youtu.be/Uc15KUQ8kTs -->
+- Presentation (YouTube): https://youtu.be/Uc15KUQ8kTs -->
 
 ## Acknowledgement
 

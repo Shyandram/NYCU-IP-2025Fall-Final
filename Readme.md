@@ -74,7 +74,7 @@ python eval_mef.py `
 
 ## Links
 
-- Presentation (YouTube): https://youtu.be/Uc15KUQ8kTs
+<!-- - Presentation (YouTube): https://youtu.be/Uc15KUQ8kTs -->
 
 ## Acknowledgement
 

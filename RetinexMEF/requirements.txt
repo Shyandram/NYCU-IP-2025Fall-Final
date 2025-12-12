@@ -1,0 +1,13 @@
+# Python 3.8.18
+einops==0.8.1
+matplotlib==3.7.2
+numpy==1.24.4
+opencv_python==4.8.1.78
+scipy==1.8.0
+torch==2.0.1
+torch==2.0.1
+tqdm==4.66.1
+scikit-image==0.21.0
+# brisque==0.0.6
+# pyiqa
+# kornia
